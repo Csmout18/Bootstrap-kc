@@ -1,4 +1,4 @@
-This project is a responsive web page created to demonstrate knowledge and practical use of Bootstrap 5. It integrates various Bootstrap components and utilities to build a functional and visually structured layout.
+This project is a responsive web page created to demonstrate knowledge and practical use of Bootstrap. It integrates various Bootstrap components and utilities to build a functional and visually structured layout.
 
 Key Features and Components:
 
